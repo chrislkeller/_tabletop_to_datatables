@@ -1,3 +1,3 @@
 ### Demo: tabletop to datatables
 
-This repo's location has [changed](https://github.com/chrislkeller/projects.chrislkeller.com/tree/master/demos/tabletop_to_datatables).
+This repo's location has [changed](https://github.com/chrislkeller/projects.chrislkeller.com/tree/master/demos/tabletop_to_datatables), though the zip file added to this repo contains the same code from the link above...
